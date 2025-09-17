@@ -1,2 +1,2 @@
-# MyFirstProject
-Первая работа
+# My-first-project
+// Первая правка
